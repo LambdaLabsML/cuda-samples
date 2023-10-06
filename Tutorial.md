@@ -11,7 +11,7 @@ cd cuda-samples/Samples/5_Domain_Specific/p2pBandwidthLatencyTest && \
 ./p2pBandwidthLatencyTest_avg.sh 10 8
 ```
 
-Expecated output on Lambda 8xH100 SXM5 Hyperplane
+Expected output on Lambda 8xH100 SXM5 Hyperplane
 
 ```
 Running test 1
@@ -48,7 +48,7 @@ cd cuda-samples/Samples/1_Utilities/bandwidthTest && \
 ./bandwidthTest_avg.sh 10
 ```
 
-Expecated output on Lambda 8xH100 SXM5 Hyperplane
+Expected output on Lambda 8xH100 SXM5 Hyperplane
 
 ```
 Running test 1
